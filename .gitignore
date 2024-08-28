@@ -167,4 +167,4 @@ cython_debug/
 10aca/Scripts/pythonw.exe
 10aca/*
 10aca/Scripts/*
-docs/*
+data/*
