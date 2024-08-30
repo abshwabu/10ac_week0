@@ -2,7 +2,6 @@
 
 # **10 Academy Week 0 Project: News Analysis and Event Modeling**
 
-![Project Banner](https://your-image-link.com)
 
 ## **Table of Contents**
 
