@@ -82,19 +82,9 @@ This will launch the interactive dashboard where you can explore the data, extra
 │
 ├── src/                      # Source code for the project
 │   ├── app.py                # Main Streamlit app
-│   ├── preprocessing.py      # Data preprocessing scripts
-│   ├── keyword_extraction.py # Scripts for keyword extraction
-│   ├── topic_modeling.py     # Scripts for topic modeling
-│   └── event_clustering.py   # Scripts for event clustering
-│
-├── notebooks/                # Jupyter notebooks for exploratory data analysis
-│   ├── EDA.ipynb
+│   ├── EDA_and_stats.ipynb   
+│   ├── db.ipynb
 │   └── Modeling.ipynb
-│
-├── results/                  # Folder to save the results and outputs
-│   ├── figures/
-│   └── tables/
-│
 ├── README.md                 # Project README file
 ├── requirements.txt          # Python dependencies
 └── LICENSE                   # License for the project
